@@ -1,0 +1,15 @@
+/Users/pk/New Folder/Lab7/bin/Debug/net10.0/Lab7
+/Users/pk/New Folder/Lab7/bin/Debug/net10.0/Lab7.deps.json
+/Users/pk/New Folder/Lab7/bin/Debug/net10.0/Lab7.runtimeconfig.json
+/Users/pk/New Folder/Lab7/bin/Debug/net10.0/Lab7.dll
+/Users/pk/New Folder/Lab7/bin/Debug/net10.0/Lab7.pdb
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/Lab7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/Lab7.AssemblyInfoInputs.cache
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/Lab7.AssemblyInfo.cs
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/Lab7.csproj.CoreCompileInputs.cache
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/Lab7.sourcelink.json
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/Lab7.dll
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/refint/Lab7.dll
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/Lab7.pdb
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/Lab7.genruntimeconfig.cache
+/Users/pk/New Folder/Lab7/obj/Debug/net10.0/ref/Lab7.dll

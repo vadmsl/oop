@@ -1,0 +1,15 @@
+/Users/pk/New Folder/MyLabs/Lab1/bin/Debug/net10.0/Lab1
+/Users/pk/New Folder/MyLabs/Lab1/bin/Debug/net10.0/Lab1.deps.json
+/Users/pk/New Folder/MyLabs/Lab1/bin/Debug/net10.0/Lab1.runtimeconfig.json
+/Users/pk/New Folder/MyLabs/Lab1/bin/Debug/net10.0/Lab1.dll
+/Users/pk/New Folder/MyLabs/Lab1/bin/Debug/net10.0/Lab1.pdb
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/Lab1.AssemblyInfoInputs.cache
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/Lab1.AssemblyInfo.cs
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/Lab1.dll
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/refint/Lab1.dll
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/Lab1.pdb
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/Lab1.genruntimeconfig.cache
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/ref/Lab1.dll
+/Users/pk/New Folder/MyLabs/Lab1/obj/Debug/net10.0/Lab1.sourcelink.json
